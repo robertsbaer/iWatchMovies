@@ -1,0 +1,29 @@
+.app {
+  padding: 10px;
+}
+
+.app .jumbotron {
+  text-align: left;
+  font-size: 100px;
+}
+
+.app .card {
+  margin-bottom: 10px;
+}
+
+.app .card-header {
+  color: white;
+  font-weight: bold;
+}
+
+.card {
+  margin-bottom: 20px;
+}
+
+.jumbotron {
+  margin-top: 20px;
+}
+
+.sidenav__list{
+  background-color: white;
+}
